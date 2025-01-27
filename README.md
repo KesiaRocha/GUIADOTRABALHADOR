@@ -1,7 +1,10 @@
 # Guia do trabalhador
 
+![logo 3](https://github.com/user-attachments/assets/d6466c53-8880-4f9a-ad9e-474eb7e63cf6)
+
 ## 📚 Descrição Geral
 O **Guia do trabalhador** é um site informativo, cujo principal objetivo é informar ao trabalhador brasileiro sobre os principais acontecimentos relacionados ao trabalho no país e aos seus direitos.
+
 
 ## ⚙️ Funcionalidades
 <ul>
@@ -31,4 +34,5 @@ O **Guia do trabalhador** é um site informativo, cujo principal objetivo é inf
   - Conteúdo dos artigos
 
 ## 🧐 Quer saber mais?
+![logo-artigos](https://github.com/user-attachments/assets/3272f545-fa15-42d1-b28f-12eafd054a66)
 https://www.canva.com/design/DAGc8QsT70s/gr3Deze9II_hoRsIXTjl-w/edit?utm_content=DAGc8QsT70s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
